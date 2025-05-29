@@ -1,0 +1,46 @@
+export const baseTheme = {
+  dayBlock: 'transparent',
+  dayHeader: '#fff',
+  bg: 'transparent',
+  time: '#fff',
+  addTask: '#ccc',
+  taskText: '#fff',
+  taskTime: '#bbb',
+  checkboxChecked: '#ff6600',
+  delete: '#ff6600',
+  modalBg: '#333',
+  modalBtn: '#ff6600',
+  input: '#fff',
+  inputBorder: '#888',
+  inputPlaceholder: '#aaa',
+};
+
+export const darkTheme = {
+  ...baseTheme,
+  dayHeader: '#fff',
+  time: '#fff',
+  addTask: '#fff',
+  taskText: '#fff',
+  taskTime: '#fff',
+  delete: '#ff6600',
+  modalBg: '#222',
+  modalBtn: '#ff6600',
+  input: '#fff',
+  inputBorder: '#888',
+  inputPlaceholder: '#aaa',
+};
+
+export const lightTheme = {
+  ...baseTheme,
+  dayHeader: '#444',
+  time: '#222',
+  addTask: '#666',
+  taskText: '#222',
+  taskTime: '#555',
+  delete: '#ff6600',
+  modalBg: '#fff',
+  modalBtn: '#ff6600',
+  input: '#222',
+  inputBorder: '#bbb',
+  inputPlaceholder: '#888',
+}; 
