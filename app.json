@@ -2,6 +2,12 @@
   "expo": {
     "name": "simpleToDo",
     "slug": "simpleToDo",
-    "version": "1.0.0"
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c17c30a3-dac1-40b4-a332-e79a0113c9be"
+      }
+    }
   }
 }
