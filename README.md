@@ -1,6 +1,6 @@
 # SimpleToDo
 
-A simple and modern week-based to-do app built with React Native and Expo. Organize your tasks by day, toggle between light and dark themes, and enjoy a clean, mobile-friendly experience.
+A simple and modern week-based to-do app built with React Native and Expo. Organize your tasks by day, toggle between light and dark themes, and enjoy a clean, mobile-friendly experience. This app was heavily inspired by [Weekstack](https://weekstack.io/) , but it is only available on iOS. The challenge here is to start with simulating a similar experience, and expand further while keeping a sleek UX but solving key user problems.
 
 ## Features
 - Organize tasks by day of the week
