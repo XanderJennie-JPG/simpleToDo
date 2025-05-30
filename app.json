@@ -1,13 +1,19 @@
 {
   "expo": {
-    "name": "simpleToDo",
-    "slug": "simpleToDo",
+    "name": "cleansimpletodo",
+    "slug": "cleansimpletodo",
     "icon": "./assets/icon.png",
     "version": "1.0.0",
     "extra": {
       "eas": {
         "projectId": "c17c30a3-dac1-40b4-a332-e79a0113c9be"
       }
+    },
+    "android": {
+      "package": "com.cleansimpletodo"
+    },
+    "ios": {
+      "bundleIdentifier": "com.cleansimpletodo"
     }
   }
 }
